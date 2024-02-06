@@ -1,0 +1,24 @@
+[
+  {
+    "property": {
+      "label": "SPH",
+      "value": "SPH",
+      "roomCount": 744,
+      "roomRevenue": 234458.7,
+      "fbRevenue": 609316.22,
+      "otherRevenue": 51547.3,
+      "occ": 22.8
+    }
+  },
+  {
+    "property": {
+      "label": "PP02",
+      "value": "PP02",
+      "roomCount": 788,
+      "roomRevenue": 250458.7,
+      "fbRevenue": 600000,
+      "otherRevenue": 61547.3,
+      "occ": 25.5
+    }
+  }
+]
