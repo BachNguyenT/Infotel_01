@@ -148,7 +148,6 @@ const dataTable = (props) => {
   }
 
   for (let i = table.length - 1; i >= 0; i--) {
-    console.log(table[i].property, values);
     if (!values.includes(`${table[i].property}`)) {
       // Remove the object from the table array
       table.splice(i, 1);
